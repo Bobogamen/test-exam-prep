@@ -26,4 +26,4 @@ jobs:
     - name: Runing Unit Tests
       run: npm run test:unit
     - name: Display username
-      run: "Test name here!"
+      run: echo "Test name here!"
